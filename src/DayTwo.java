@@ -44,7 +44,7 @@ public class DayTwo {
             if (c-a == 0) {
                 isZero = true;
             }
-            if ((a < c)) {
+            if (a < c) {
                 ascending = false;
             }
             if (a > c) {
